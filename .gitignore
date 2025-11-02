@@ -1,0 +1,36 @@
+# Arquivos do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Arquivos temporários do sistema
+Thumbs.db
+desktop.ini
+
+# Arquivos de backup do editor
+*~
+*.swp
+*.swo
+*.bak
+
+# Logs
+*.log
+
+# PDF do template original (opcional - descomente se não quiser incluir)
+# Template - Documento do Projeto (3).pdf
+
+# Node modules (caso adicione JavaScript futuramente)
+node_modules/
+
+# Python (caso adicione scripts Python futuramente)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
