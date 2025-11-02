@@ -220,6 +220,7 @@ Para avaliação da **3ª Atividade**, consulte:
 ## 👨‍💻 Autor
 
 **Matheus Henrique**  
+**Julia Laine**
 PUC Minas - Trabalho Interdisciplinar de Aplicações Web  
 Novembro 2025
 
